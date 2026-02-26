@@ -1,8 +1,6 @@
 # ClickHouse Setup
 
-**Author:** Tivan - updated by Aidan
-
-**Date:** 2025-08-05
+**Author:** Aidan and Tivan
 
 ---
 
