@@ -1,0 +1,3 @@
+<clickhouse>
+        <default_database>warehouse</default_database>
+</clickhouse>
